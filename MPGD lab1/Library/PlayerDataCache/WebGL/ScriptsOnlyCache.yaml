@@ -1001,4 +1001,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/github/build
+  playerPath: D:/github/IntroGame/build

@@ -1,6 +1,6 @@
-{"msg":"init","dagFile":"Library/Bee/Playere12500ad.dag","targets":["Player"]}
+{"msg":"init","dagFile":"Library/Bee/Playerdd0fbda2.dag","targets":["Player"]}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"Player","enqueuedNodeIndex":433}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/build/StreamingAssets/UnityServicesProjectConfiguration.json","enqueuedNodeIndex":1,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/build/StreamingAssets/UnityServicesProjectConfiguration.json","enqueuedNodeIndex":1,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"UnityLinker Library/Bee/artifacts/WebGL/ManagedStripped","enqueuedNodeIndex":2,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/MPGD lab1/Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.bc","enqueuedNodeIndex":407,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"Lib_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/GameAssembly.bc","enqueuedNodeIndex":406,"enqueueingNodeAnnotation":"CopyFiles D:/github/IntroGame/MPGD lab1/Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.bc","enqueueingNodeIndex":407}
@@ -409,83 +409,83 @@
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteResponseFile Library/Bee/artifacts/rsp/5362588684057008505.rsp","enqueuedNodeIndex":405,"enqueueingNodeAnnotation":"Lib_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/GameAssembly.bc","enqueueingNodeIndex":406}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/MPGD lab1/Library/Bee/artifacts/WebGL/il2cppOutput/build/Data/Metadata/global-metadata.dat","enqueuedNodeIndex":408,"enqueueingNodeAnnotation":"CopyFiles D:/github/IntroGame/MPGD lab1/Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.bc","enqueueingNodeIndex":407}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/MPGD lab1/Library/Bee/artifacts/WebGL/il2cppOutput/build/Data/Resources/mscorlib.dll-resources.dat","enqueuedNodeIndex":409,"enqueueingNodeAnnotation":"CopyFiles D:/github/IntroGame/MPGD lab1/Library/Bee/artifacts/WebGL/il2cppOutput/build/Data/Metadata/global-metadata.dat","enqueueingNodeIndex":408}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/build/Build/build.framework.js","enqueuedNodeIndex":414,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"FrameworkAssembler Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js","enqueuedNodeIndex":413,"enqueueingNodeAnnotation":"CopyFiles D:/github/build/Build/build.framework.js","enqueueingNodeIndex":414}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/build/Build/build.framework.js","enqueuedNodeIndex":414,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"FrameworkAssembler Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js","enqueuedNodeIndex":413,"enqueueingNodeAnnotation":"CopyFiles D:/github/IntroGame/build/Build/build.framework.js","enqueueingNodeIndex":414}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"Link_WebGL_wasm Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js (+wasm)","enqueuedNodeIndex":411,"enqueueingNodeAnnotation":"FrameworkAssembler Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js","enqueueingNodeIndex":413}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteResponseFile Library/Bee/artifacts/rsp/8995565923215908413.rsp","enqueuedNodeIndex":410,"enqueueingNodeAnnotation":"Link_WebGL_wasm Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js (+wasm)","enqueueingNodeIndex":411}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/csharpactions/build.framework.js_mumr.info","enqueuedNodeIndex":412,"enqueueingNodeAnnotation":"FrameworkAssembler Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js","enqueueingNodeIndex":413}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/build/Build/build.wasm","enqueuedNodeIndex":415,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/build/Build/build.wasm","enqueuedNodeIndex":415,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Temp/EditorBuildOutput/UnityLinkerToEditorData.json","enqueuedNodeIndex":416,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Temp/EditorBuildOutput/MethodMap.tsv","enqueuedNodeIndex":417,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/build/Build/build.data","enqueuedNodeIndex":420,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data","enqueuedNodeIndex":419,"enqueueingNodeAnnotation":"CopyFiles D:/github/build/Build/build.data","enqueueingNodeIndex":420}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/build/Build/build.data","enqueuedNodeIndex":420,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data","enqueuedNodeIndex":419,"enqueueingNodeAnnotation":"CopyFiles D:/github/IntroGame/build/Build/build.data","enqueueingNodeIndex":420}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/csharpactions/webgl.data_qnm2.info","enqueuedNodeIndex":418,"enqueueingNodeAnnotation":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data","enqueueingNodeIndex":419}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS D:/github/build/Build/build.loader.js","enqueuedNodeIndex":421,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS D:/github/build/index.html","enqueuedNodeIndex":422,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/build/TemplateData/favicon.ico","enqueuedNodeIndex":423,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/build/TemplateData/fullscreen-button.png","enqueuedNodeIndex":424,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/build/TemplateData/progress-bar-empty-dark.png","enqueuedNodeIndex":425,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/build/TemplateData/progress-bar-empty-light.png","enqueuedNodeIndex":426,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/build/TemplateData/progress-bar-full-dark.png","enqueuedNodeIndex":427,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/build/TemplateData/progress-bar-full-light.png","enqueuedNodeIndex":428,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS D:/github/build/TemplateData/style.css","enqueuedNodeIndex":429,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/build/TemplateData/unity-logo-dark.png","enqueuedNodeIndex":430,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/build/TemplateData/unity-logo-light.png","enqueuedNodeIndex":431,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/build/TemplateData/webgl-logo.png","enqueuedNodeIndex":432,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
-{"msg":"nodeOutputsMissing","annotation":"CopyFiles D:/github/build/TemplateData/unity-logo-light.png","index":431,"files":["D:\\github\\build\\TemplateData\\unity-logo-light.png"],"directories":[]}
-{"msg":"nodeOutputsMissing","annotation":"CopyFiles D:/github/build/TemplateData/unity-logo-dark.png","index":430,"files":["D:\\github\\build\\TemplateData\\unity-logo-dark.png"],"directories":[]}
-{"msg":"nodeOutputsMissing","annotation":"CopyFiles D:/github/build/TemplateData/progress-bar-full-light.png","index":428,"files":["D:\\github\\build\\TemplateData\\progress-bar-full-light.png"],"directories":[]}
-{"msg":"nodeOutputsMissing","annotation":"PreprocessJS D:/github/build/TemplateData/style.css","index":429,"files":["D:\\github\\build\\TemplateData\\style.css"],"directories":[]}
-{"msg":"nodeOutputsMissing","annotation":"CopyFiles D:/github/build/TemplateData/progress-bar-empty-light.png","index":426,"files":["D:\\github\\build\\TemplateData\\progress-bar-empty-light.png"],"directories":[]}
-{"msg":"nodeOutputsMissing","annotation":"CopyFiles D:/github/build/TemplateData/progress-bar-full-dark.png","index":427,"files":["D:\\github\\build\\TemplateData\\progress-bar-full-dark.png"],"directories":[]}
-{"msg":"runNodeAction","annotation":"CopyFiles D:/github/build/TemplateData/unity-logo-light.png","index":431}
-{"msg":"runNodeAction","annotation":"CopyFiles D:/github/build/TemplateData/unity-logo-dark.png","index":430}
-{"msg":"runNodeAction","annotation":"CopyFiles D:/github/build/TemplateData/progress-bar-full-light.png","index":428}
-{"msg":"nodeOutputsMissing","annotation":"CopyFiles D:/github/build/TemplateData/progress-bar-empty-dark.png","index":425,"files":["D:\\github\\build\\TemplateData\\progress-bar-empty-dark.png"],"directories":[]}
-{"msg":"runNodeAction","annotation":"CopyFiles D:/github/build/TemplateData/progress-bar-empty-dark.png","index":425}
-{"msg":"runNodeAction","annotation":"PreprocessJS D:/github/build/TemplateData/style.css","index":429}
-{"msg":"noderesult","processed_node_count":205,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/build/TemplateData/unity-logo-dark.png","index":430,"exitcode":0,"outputfile":"D:\\github\\build\\TemplateData\\unity-logo-dark.png"}
-{"msg":"noderesult","processed_node_count":205,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/build/TemplateData/unity-logo-light.png","index":431,"exitcode":0,"outputfile":"D:\\github\\build\\TemplateData\\unity-logo-light.png"}
-{"msg":"nodeOutputsMissing","annotation":"CopyFiles D:/github/build/TemplateData/fullscreen-button.png","index":424,"files":["D:\\github\\build\\TemplateData\\fullscreen-button.png"],"directories":[]}
-{"msg":"runNodeAction","annotation":"CopyFiles D:/github/build/TemplateData/fullscreen-button.png","index":424}
-{"msg":"nodeOutputsMissing","annotation":"CopyFiles D:/github/build/TemplateData/favicon.ico","index":423,"files":["D:\\github\\build\\TemplateData\\favicon.ico"],"directories":[]}
-{"msg":"runNodeAction","annotation":"CopyFiles D:/github/build/TemplateData/favicon.ico","index":423}
-{"msg":"noderesult","processed_node_count":205,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/build/TemplateData/progress-bar-empty-dark.png","index":425,"exitcode":0,"outputfile":"D:\\github\\build\\TemplateData\\progress-bar-empty-dark.png"}
-{"msg":"noderesult","processed_node_count":207,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/build/TemplateData/fullscreen-button.png","index":424,"exitcode":0,"outputfile":"D:\\github\\build\\TemplateData\\fullscreen-button.png"}
-{"msg":"nodeOutputsMissing","annotation":"PreprocessJS D:/github/build/index.html","index":422,"files":["D:\\github\\build\\index.html"],"directories":[]}
-{"msg":"runNodeAction","annotation":"PreprocessJS D:/github/build/index.html","index":422}
-{"msg":"nodeOutputsMissing","annotation":"PreprocessJS D:/github/build/Build/build.loader.js","index":421,"files":["D:\\github\\build\\Build\\build.loader.js"],"directories":[]}
-{"msg":"runNodeAction","annotation":"PreprocessJS D:/github/build/Build/build.loader.js","index":421}
-{"msg":"noderesult","processed_node_count":209,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/build/TemplateData/favicon.ico","index":423,"exitcode":0,"outputfile":"D:\\github\\build\\TemplateData\\favicon.ico"}
-{"msg":"nodeOutputsMissing","annotation":"CopyFiles D:/github/build/TemplateData/webgl-logo.png","index":432,"files":["D:\\github\\build\\TemplateData\\webgl-logo.png"],"directories":[]}
-{"msg":"runNodeAction","annotation":"CopyFiles D:/github/build/TemplateData/webgl-logo.png","index":432}
-{"msg":"noderesult","processed_node_count":210,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/build/TemplateData/webgl-logo.png","index":432,"exitcode":0,"outputfile":"D:\\github\\build\\TemplateData\\webgl-logo.png"}
-{"msg":"nodeOutputsMissing","annotation":"CopyFiles D:/github/build/StreamingAssets/UnityServicesProjectConfiguration.json","index":1,"files":["D:\\github\\build\\StreamingAssets\\UnityServicesProjectConfiguration.json"],"directories":[]}
-{"msg":"runNodeAction","annotation":"CopyFiles D:/github/build/StreamingAssets/UnityServicesProjectConfiguration.json","index":1}
-{"msg":"noderesult","processed_node_count":211,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/build/StreamingAssets/UnityServicesProjectConfiguration.json","index":1,"exitcode":0,"outputfile":"D:\\github\\build\\StreamingAssets\\UnityServicesProjectConfiguration.json"}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS D:/github/IntroGame/build/Build/build.loader.js","enqueuedNodeIndex":421,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS D:/github/IntroGame/build/index.html","enqueuedNodeIndex":422,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/build/TemplateData/favicon.ico","enqueuedNodeIndex":423,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/build/TemplateData/fullscreen-button.png","enqueuedNodeIndex":424,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-empty-dark.png","enqueuedNodeIndex":425,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-empty-light.png","enqueuedNodeIndex":426,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-full-dark.png","enqueuedNodeIndex":427,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-full-light.png","enqueuedNodeIndex":428,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS D:/github/IntroGame/build/TemplateData/style.css","enqueuedNodeIndex":429,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/build/TemplateData/unity-logo-dark.png","enqueuedNodeIndex":430,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/build/TemplateData/unity-logo-light.png","enqueuedNodeIndex":431,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles D:/github/IntroGame/build/TemplateData/webgl-logo.png","enqueuedNodeIndex":432,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":433}
+{"msg":"newNode","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/unity-logo-light.png","index":431}
+{"msg":"newNode","annotation":"PreprocessJS D:/github/IntroGame/build/TemplateData/style.css","index":429}
+{"msg":"newNode","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/unity-logo-dark.png","index":430}
+{"msg":"newNode","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-full-light.png","index":428}
+{"msg":"newNode","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-full-dark.png","index":427}
+{"msg":"newNode","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-empty-light.png","index":426}
+{"msg":"newNode","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-empty-dark.png","index":425}
+{"msg":"runNodeAction","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/unity-logo-light.png","index":431}
+{"msg":"runNodeAction","annotation":"PreprocessJS D:/github/IntroGame/build/TemplateData/style.css","index":429}
+{"msg":"runNodeAction","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/unity-logo-dark.png","index":430}
+{"msg":"runNodeAction","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-full-light.png","index":428}
+{"msg":"runNodeAction","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-full-dark.png","index":427}
+{"msg":"runNodeAction","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-empty-light.png","index":426}
+{"msg":"runNodeAction","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-empty-dark.png","index":425}
+{"msg":"noderesult","processed_node_count":205,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-full-light.png","index":428,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\TemplateData\\progress-bar-full-light.png"}
+{"msg":"noderesult","processed_node_count":205,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/unity-logo-light.png","index":431,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\TemplateData\\unity-logo-light.png"}
+{"msg":"newNode","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/fullscreen-button.png","index":424}
+{"msg":"newNode","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/favicon.ico","index":423}
+{"msg":"runNodeAction","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/favicon.ico","index":423}
+{"msg":"runNodeAction","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/fullscreen-button.png","index":424}
+{"msg":"noderesult","processed_node_count":207,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-full-dark.png","index":427,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\TemplateData\\progress-bar-full-dark.png"}
+{"msg":"noderesult","processed_node_count":207,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/unity-logo-dark.png","index":430,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\TemplateData\\unity-logo-dark.png"}
+{"msg":"newNode","annotation":"PreprocessJS D:/github/IntroGame/build/index.html","index":422}
+{"msg":"runNodeAction","annotation":"PreprocessJS D:/github/IntroGame/build/index.html","index":422}
+{"msg":"newNode","annotation":"PreprocessJS D:/github/IntroGame/build/Build/build.loader.js","index":421}
+{"msg":"runNodeAction","annotation":"PreprocessJS D:/github/IntroGame/build/Build/build.loader.js","index":421}
+{"msg":"noderesult","processed_node_count":209,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-empty-light.png","index":426,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\TemplateData\\progress-bar-empty-light.png"}
+{"msg":"newNode","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/webgl-logo.png","index":432}
+{"msg":"runNodeAction","annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/webgl-logo.png","index":432}
+{"msg":"noderesult","processed_node_count":210,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/favicon.ico","index":423,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\TemplateData\\favicon.ico"}
+{"msg":"newNode","annotation":"CopyFiles D:/github/IntroGame/build/StreamingAssets/UnityServicesProjectConfiguration.json","index":1}
+{"msg":"runNodeAction","annotation":"CopyFiles D:/github/IntroGame/build/StreamingAssets/UnityServicesProjectConfiguration.json","index":1}
+{"msg":"noderesult","processed_node_count":211,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/fullscreen-button.png","index":424,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\TemplateData\\fullscreen-button.png"}
+{"msg":"noderesult","processed_node_count":212,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/progress-bar-empty-dark.png","index":425,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\TemplateData\\progress-bar-empty-dark.png"}
+{"msg":"noderesult","processed_node_count":212,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/IntroGame/build/TemplateData/webgl-logo.png","index":432,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\TemplateData\\webgl-logo.png"}
+{"msg":"noderesult","processed_node_count":214,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/IntroGame/build/StreamingAssets/UnityServicesProjectConfiguration.json","index":1,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\StreamingAssets\\UnityServicesProjectConfiguration.json"}
 {"msg":"nodeOutputsMissing","annotation":"CopyFiles Temp/EditorBuildOutput/UnityLinkerToEditorData.json","index":416,"files":["Temp\\EditorBuildOutput\\UnityLinkerToEditorData.json"],"directories":[]}
 {"msg":"runNodeAction","annotation":"CopyFiles Temp/EditorBuildOutput/UnityLinkerToEditorData.json","index":416}
-{"msg":"noderesult","processed_node_count":217,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles Temp/EditorBuildOutput/UnityLinkerToEditorData.json","index":416,"exitcode":0,"outputfile":"Temp\\EditorBuildOutput\\UnityLinkerToEditorData.json"}
-{"msg":"runNodeAction","annotation":"CopyFiles D:/github/build/TemplateData/progress-bar-empty-light.png","index":426}
-{"msg":"runNodeAction","annotation":"CopyFiles D:/github/build/TemplateData/progress-bar-full-dark.png","index":427}
-{"msg":"noderesult","processed_node_count":218,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/build/TemplateData/progress-bar-empty-light.png","index":426,"exitcode":0,"outputfile":"D:\\github\\build\\TemplateData\\progress-bar-empty-light.png"}
-{"msg":"noderesult","processed_node_count":219,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/build/TemplateData/progress-bar-full-dark.png","index":427,"exitcode":0,"outputfile":"D:\\github\\build\\TemplateData\\progress-bar-full-dark.png"}
-{"msg":"noderesult","processed_node_count":220,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/build/TemplateData/progress-bar-full-light.png","index":428,"exitcode":0,"outputfile":"D:\\github\\build\\TemplateData\\progress-bar-full-light.png"}
+{"msg":"noderesult","processed_node_count":220,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles Temp/EditorBuildOutput/UnityLinkerToEditorData.json","index":416,"exitcode":0,"outputfile":"Temp\\EditorBuildOutput\\UnityLinkerToEditorData.json"}
 {"msg":"nodeOutputsMissing","annotation":"CopyFiles Temp/EditorBuildOutput/MethodMap.tsv","index":417,"files":["Temp\\EditorBuildOutput\\MethodMap.tsv"],"directories":[]}
 {"msg":"runNodeAction","annotation":"CopyFiles Temp/EditorBuildOutput/MethodMap.tsv","index":417}
 {"msg":"inputSignatureChanged","annotation":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data","index":419,"changes":[{"key":"Action","value":"\"D:\\unity\\Editor\\2022.1.17f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:\\unity\\Editor\\2022.1.17f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\WebGLPlayerBuildProgram.exe\" \"D:/unity/Editor/2022.1.17f1/Editor/Data/PlaybackEngines/WebGLSupport/Bee;D:/unity/Editor/2022.1.17f1/Editor/Data/Tools/BuildPipeline\" invoke_static_method \"Library\\Bee\\artifacts\\csharpactions\\webgl.data_qnm2.info\"","oldvalue":null},{"key":"InputFileList","value":["Library\\PlayerDataCache\\WebGL\\Data\\boot.config","Library\\PlayerDataCache\\WebGL\\Data\\data.unity3d","Library\\PlayerDataCache\\WebGL\\Data\\RuntimeInitializeOnLoads.json","Library\\PlayerDataCache\\WebGL\\Data\\ScriptingAssemblies.json","D:\\github\\IntroGame\\MPGD lab1\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\data\\Metadata\\global-metadata.dat","D:\\unity\\Editor\\2022.1.17f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\data\\unity_default_resources","Temp\\StagingArea\\Data\\Resources\\unity_builtin_extra","Library\\Bee\\artifacts\\csharpactions\\webgl.data_qnm2.info","D:\\unity\\Editor\\2022.1.17f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\modules.asset","D:\\unity\\Editor\\2022.1.17f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\UnityEditor.WebGL.Extensions.dll","D:\\unity\\Editor\\2022.1.17f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\UnityEditor.WebGL.Extensions.pdb","D:\\unity\\Editor\\2022.1.17f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\WebGLPlayerBuildProgram.Data.dll","D:\\unity\\Editor\\2022.1.17f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\WebGLPlayerBuildProgram.Data.pdb","D:\\unity\\Editor\\2022.1.17f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\WebGLPlayerBuildProgram.exe"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data","index":419}
-{"msg":"nodeOutputsMissing","annotation":"CopyFiles D:/github/build/Build/build.wasm","index":415,"files":["D:\\github\\build\\Build\\build.wasm"],"directories":[]}
-{"msg":"runNodeAction","annotation":"CopyFiles D:/github/build/Build/build.wasm","index":415}
-{"msg":"nodeOutputsMissing","annotation":"CopyFiles D:/github/build/Build/build.framework.js","index":414,"files":["D:\\github\\build\\Build\\build.framework.js"],"directories":[]}
-{"msg":"runNodeAction","annotation":"CopyFiles D:/github/build/Build/build.framework.js","index":414}
-{"msg":"noderesult","processed_node_count":424,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/build/Build/build.framework.js","index":414,"exitcode":0,"outputfile":"D:\\github\\build\\Build\\build.framework.js"}
+{"msg":"newNode","annotation":"CopyFiles D:/github/IntroGame/build/Build/build.wasm","index":415}
+{"msg":"runNodeAction","annotation":"CopyFiles D:/github/IntroGame/build/Build/build.wasm","index":415}
+{"msg":"newNode","annotation":"CopyFiles D:/github/IntroGame/build/Build/build.framework.js","index":414}
+{"msg":"runNodeAction","annotation":"CopyFiles D:/github/IntroGame/build/Build/build.framework.js","index":414}
+{"msg":"noderesult","processed_node_count":424,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/IntroGame/build/Build/build.framework.js","index":414,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\Build\\build.framework.js"}
 {"msg":"noderesult","processed_node_count":425,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles Temp/EditorBuildOutput/MethodMap.tsv","index":417,"exitcode":0,"outputfile":"Temp\\EditorBuildOutput\\MethodMap.tsv"}
-{"msg":"noderesult","processed_node_count":426,"number_of_nodes_ever_queued":433,"annotation":"PreprocessJS D:/github/build/TemplateData/style.css","index":429,"exitcode":0,"outputfile":"D:\\github\\build\\TemplateData\\style.css"}
-{"msg":"noderesult","processed_node_count":426,"number_of_nodes_ever_queued":433,"annotation":"PreprocessJS D:/github/build/index.html","index":422,"exitcode":0,"outputfile":"D:\\github\\build\\index.html"}
-{"msg":"noderesult","processed_node_count":428,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/build/Build/build.wasm","index":415,"exitcode":0,"outputfile":"D:\\github\\build\\Build\\build.wasm"}
+{"msg":"noderesult","processed_node_count":426,"number_of_nodes_ever_queued":433,"annotation":"PreprocessJS D:/github/IntroGame/build/TemplateData/style.css","index":429,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\TemplateData\\style.css"}
+{"msg":"noderesult","processed_node_count":427,"number_of_nodes_ever_queued":433,"annotation":"PreprocessJS D:/github/IntroGame/build/index.html","index":422,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\index.html"}
+{"msg":"noderesult","processed_node_count":428,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/IntroGame/build/Build/build.wasm","index":415,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\Build\\build.wasm"}
 {"msg":"noderesult","processed_node_count":429,"number_of_nodes_ever_queued":433,"annotation":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data","index":419,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\WebGL\\webgl.data"}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles D:/github/build/Build/build.data","index":420,"changes":[{"key":"InputFileList","value":["Library\\Bee\\artifacts\\WebGL\\webgl.data"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles D:/github/build/Build/build.data","index":420}
-{"msg":"noderesult","processed_node_count":430,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/build/Build/build.data","index":420,"exitcode":0,"outputfile":"D:\\github\\build\\Build\\build.data"}
-{"msg":"noderesult","processed_node_count":431,"number_of_nodes_ever_queued":433,"annotation":"PreprocessJS D:/github/build/Build/build.loader.js","index":421,"exitcode":0,"outputfile":"D:\\github\\build\\Build\\build.loader.js"}
+{"msg":"newNode","annotation":"CopyFiles D:/github/IntroGame/build/Build/build.data","index":420}
+{"msg":"runNodeAction","annotation":"CopyFiles D:/github/IntroGame/build/Build/build.data","index":420}
+{"msg":"noderesult","processed_node_count":430,"number_of_nodes_ever_queued":433,"annotation":"CopyFiles D:/github/IntroGame/build/Build/build.data","index":420,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\Build\\build.data"}
+{"msg":"noderesult","processed_node_count":431,"number_of_nodes_ever_queued":433,"annotation":"PreprocessJS D:/github/IntroGame/build/Build/build.loader.js","index":421,"exitcode":0,"outputfile":"D:\\github\\IntroGame\\build\\Build\\build.loader.js"}
